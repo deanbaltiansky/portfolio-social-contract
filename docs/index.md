@@ -6,6 +6,8 @@ output:
     md_extensions: +raw_html
 ---
 
+This project was conducted in collaboration with <a href="https://sandramatz.com/" target="_blank">Prof. Sandra Matz</a>
+
 # Problem
 
 <div style="overflow:auto;">
@@ -453,3 +455,8 @@ Comparisons with the control condition indicate that these effects are primarily
   - **People are attuned to gaps between promise and outcomes.** Organizations should actively track whether stakeholders believe the institution is living up to its core stated values, not just whether outcomes are achieved.
   - **Trust requires substantive delivery, not surface-level fixes.** Restoring trust demands material follow-through on institutional promises, not symbolic gestures or messaging alone.
   - **Not all social contracts are created equal.** Because perceptions of institutional promises vary across groups, effective interventions must account for differences in what people believe was promised—and what they believe was delivered.
+  
+# Open materials
+
+For the project github page, see: <a href="https://github.com/deanbaltiansky/broken-social-contract" target="_blank">https://github.com/deanbaltiansky/broken-social-contract</a>
+
