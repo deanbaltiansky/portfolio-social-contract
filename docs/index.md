@@ -1,5 +1,5 @@
 ---
-title: "Diagnosing Political Discontent via Multi-Method Causal Inference"
+title: "Explaining Institutional Distrust via Multi-Method Causal Inference"
 output:
   html_document:
     self_contained: true
